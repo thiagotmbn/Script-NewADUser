@@ -1,0 +1,2 @@
+FirstName;LastName;Conta;Descricao;Setor;Dominio;Caminho
+Exemplo;Teste;exemplo.teste;Opcional;Opcional;exemplo.intranet;OU=Usuarios,OU=Comercial,OU=Departamentos,DC=exemplo,DC=intranet
